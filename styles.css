@@ -15,7 +15,7 @@ body * {
 }
 
 body {
-    background-image: url(./assets/bg.jpg);
+    background-image: url(./assets/b1g.jpg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -103,15 +103,15 @@ section ul {
 
 }
 
-.games-list img {
+.movies-list img {
     border-radius: 8px;
     width: 90px;
 
 }
 
-.channel-list img {
-    border-radius: 50%;
-    width:  70px;
+.books-list img {
+    border-radius: 8%;
+    width:  90px;
 }
 
 /* animation */
